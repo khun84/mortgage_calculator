@@ -3,8 +3,8 @@ title: Mortgage IRR calculator
 account: khun84
 server: shinyapps.io
 appId: 157801
-bundleId: 716547
+bundleId: 716550
 url: https://khun84.shinyapps.io/mortgage_irr_calculator/
-when: 1487497139.38686
+when: 1487497927.32172
 asMultiple: FALSE
 asStatic: FALSE

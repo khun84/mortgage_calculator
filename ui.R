@@ -47,8 +47,8 @@ dashboardPage(
                          and calculate the annual IRR using the irr function from FinCal package.'),
                   tags$p('Note that negative value in the mortgage spreadsheet means outflow cashflow and vice versa.'),
                   tags$p('The source code of this app resides in ', 
-                         tags$a(href='https://github.com/khun84/mortgage_calculator_presentation/tree/gh-pages',
-                                'https://github.com/khun84/mortgage_calculator_presentation/tree/gh-pages'))
+                         tags$a(href='https://github.com/khun84/mortgage_calculator',
+                                'https://github.com/khun84/mortgage_calculator'))
                 ),
         tabItem(tabName = 'dashboard',
           fluidRow(
